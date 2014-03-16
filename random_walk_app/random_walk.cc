@@ -11,6 +11,7 @@
 #include <vector>
 #include <time.h>
 #include <mpi.h>
+#include <cstdlib>
 
 using namespace std;
 
